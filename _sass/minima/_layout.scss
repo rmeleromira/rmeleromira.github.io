@@ -189,6 +189,16 @@
   }
 }
 
+.post-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.post-link {
+  display: block;
+  font-size: 24px;
+}
+
 .contribution-list {
   margin-left: 0;
   list-style: none;
@@ -196,6 +206,16 @@
   > li {
     margin-bottom: $spacing-unit;
   }
+}
+
+.contribution-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.contribution-link {
+  display: block;
+  font-size: 24px;
 }
 
 .job-list {
@@ -207,6 +227,16 @@
   }
 }
 
+.job-meta {
+  font-size: $small-font-size;
+  color: $grey-color;
+}
+
+.job-link {
+  display: block;
+  font-size: 24px;
+}
+
 .certification-list {
   margin-left: 0;
   list-style: none;
@@ -216,15 +246,18 @@
   }
 }
 
-.post-meta {
+.certification-meta {
   font-size: $small-font-size;
   color: $grey-color;
 }
 
-.post-link {
+.certification-link {
   display: block;
   font-size: 24px;
 }
+
+
+
 
 
 
